@@ -1,4 +1,4 @@
-int PIN_SENSOR = 13;
+senint PIN_SENSOR = 13;
  
 void setup() {
   pinMode(PIN_SENSOR, INPUT);
